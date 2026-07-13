@@ -10,6 +10,10 @@ control — it does not cure tinnitus.
 
 ## Run it
 
+**Live app: https://aosatinsky.github.io/tinnitus-lab/** — install to the
+iPhone Home Screen from there. Deploys from the `gh-pages` branch: rebuild
+and re-push `dist/` to update.
+
 ```bash
 npm install
 npm run dev            # local
